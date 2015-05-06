@@ -1,5 +1,8 @@
-var number = document.getElementsByClassName("number");
 
+
+// get number using "number" id
+var number = document.getElementsByClassName("number");
+// get operator using "operator" id
 var operator = document.getElementsByClassName("operator")
 
 var equals = document.getElementById('eq');
